@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Ayorinde Maryam Oluwatoyin
 
-![Profile banner](https://github.com/MARYAMTEE/MARYAMTEE/blob/main/banner.png)
-
 ---
 
 ### 👩🏽‍💻 Junior Frontend Developer
