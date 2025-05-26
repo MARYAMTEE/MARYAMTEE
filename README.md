@@ -27,7 +27,7 @@ Right now, I’m working on my **developer portfolio** (coming soon!) and sharin
 
 Transitioning from an Office Technology background into tech hasn’t been easy, but I’m determined to break in and make an impact. I’m driven to build useful, beautiful things.
 
-I’m not pretending to be a pro—just showing up daily, learning in public, and hoping to connect with others on the same path.
+I’m not pretending to be a pro just showing up daily, learning in public, and hoping to connect with others on the same path.
 
 ---
 
