@@ -4,7 +4,7 @@
 
 ### 👩🏽‍💻 Junior Frontend Developer
 
-I’m a **Junior Frontend Developer** learning in public and building real-world projects to grow my skills and confidence in tech. I love creating clean, responsive designs and sharing my progress online—hoping to inspire others who are also just starting out.
+I’m a **Junior Frontend Developer** learning in public and building real-world projects to grow my skills and confidence in tech. I love creating clean, responsive designs and sharing my progress online hoping to inspire others who are also just starting out just like me.
 
 ---
 
