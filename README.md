@@ -10,7 +10,7 @@ I’m a **Junior Frontend Developer** learning in public and building real-world
 
 ## 🛠️ Top Skills
 
-- **HTML & CSS** (with a special love for Flexbox!)
+- **HTML, CSS, Tailwindcss, sass** (with a special love for Flexbox!)
 - **JavaScript** (beginner, currently learning)
 - **UI design & layout implementation**
 - **Office Technology & Management** (organized, tech-savvy, admin pro)
